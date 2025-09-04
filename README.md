@@ -92,6 +92,13 @@ http://127.0.0.1:8000
 ```
 
 ---
+## Some Screenshots
+<img width="1146" height="726" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/0dcf144a-27af-4961-8806-0c126c17a96d" />
+<img width="1155" height="692" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/93126abe-3d11-42d9-bb80-172bdd6ad4af" />
+<img width="1189" height="693" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/73b72efa-272e-41f2-b90f-c4ea1101ec3f" />
+<img width="832" height="511" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/77fefc4b-bdcd-4c72-9570-2bf286e06d6e" />
+
+
 
 ## Usage
 
